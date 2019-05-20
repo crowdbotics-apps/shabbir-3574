@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT shabbir_3574.wsgi:application
